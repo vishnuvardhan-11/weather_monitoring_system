@@ -1,6 +1,6 @@
 # Weather Monitoring System
 
-```markdown
+
 
 
 ## Overview
@@ -14,16 +14,18 @@ The Weather Monitoring System is a Python application that fetches, processes, a
 - **Security Layer**: API keys and sensitive data are securely managed.
 - **Performance Optimization**: Code is optimized for speed and efficiency.
 
+```markdown
 ## Project Structure
-```
-weather_monitoring_system/
-├── main.py                  # Main entry point of the application
-└── src/
-    ├── __init__.py          # Package initializer
-    ├── fetch_weather.py      # Module for fetching weather data from the API
-    ├── process_data.py       # Module for processing weather data
-    └── aggregate_data.py      # Module for aggregating data over time
-```
+rule_engine/
+├── main.py
+├── src/
+│   ├── __init__.py
+│   ├── rule_engine.py
+│   ├── ast_builder.py
+│   └── evaluator.py
+├── requirements.txt
+└── README.md
+
 
 ## Installation
 1. **Clone the Repository**:
