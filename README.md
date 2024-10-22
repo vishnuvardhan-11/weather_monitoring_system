@@ -47,18 +47,4 @@ To fetch the weather data for a specific city, simply input the city name when p
 ## Contributing
 Contributions are welcome! If you would like to contribute, please fork the repository and submit a pull request.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
 
-## Contact
-For any questions or suggestions, please contact:
-
-- Your Name
-- Email: your.email@example.com
-```
-
-### Customization
-- Replace `Your Name` and `your.email@example.com` with your actual name and email.
-- You can add sections for future features, known issues, or any other relevant information specific to your project.
-
-Feel free to modify any sections as needed to accurately reflect your project's goals and details!
