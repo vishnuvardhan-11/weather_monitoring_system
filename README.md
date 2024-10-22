@@ -1,7 +1,7 @@
-Based on your assignment requirements, here's a structured README that meets the specified guidelines:
+# Weather Monitoring System
 
 ```markdown
-# Weather Monitoring System
+
 
 ## Overview
 The Weather Monitoring System is a Python application that fetches, processes, and visualizes weather data using the OpenWeatherMap API. This tool provides real-time weather information, aiding users in data analysis and research.
